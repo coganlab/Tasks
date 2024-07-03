@@ -1,0 +1,12 @@
+[submodule "GlobalLocal"]
+	path = GlobalLocal
+	url = git@github.com:coganlab/GlobalLocal.git
+[submodule ".submodules/GlobalLocal"]
+	path = .submodules/GlobalLocal
+	url = git@github.com:coganlab/GlobalLocal.git
+[submodule ".submodules/mem_task"]
+	path = .submodules/mem_task
+	url = git@github.com:coganlab/mem_task.git
+[submodule ".submodules/Picture_Naming"]
+	path = .submodules/Picture_Naming
+	url = git@github.com:coganlab/Picture_Naming.git
