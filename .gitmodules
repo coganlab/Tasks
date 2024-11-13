@@ -10,3 +10,6 @@
 [submodule "Retrocue"]
 	path = Retrocue
 	url = git@github.com:coganlab/Retrocue.git
+[submodule "Phoneme-Sequencing"]
+	path = Phoneme-Sequencing
+	url = git@github.com:coganlab/Phoneme-Sequencing.git
